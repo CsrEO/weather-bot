@@ -2,7 +2,7 @@ import * as Discord from "discord.js";
 import { getTemperature } from "./Weather.js";
 
 
-const token = "OTY5Mzc0MDk4MjA5NzgzODE5.Ymsd-w.CzxbOrP8Q5Mir2VqgQS6ZHkiEaI";
+const token
 const client = new Discord.Client({
     intents: ["GUILDS", "GUILD_MESSAGES"],
 });
